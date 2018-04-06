@@ -1,6 +1,6 @@
 <%-- 
     Document   : Java-Challenge1
-    Created on : 2018/04/06, 15:51:45
+    Created on : 2018/04/06, 16:15:18
     Author     : tsukasa
 --%>
 
@@ -13,7 +13,7 @@
     </head>
     <body>
         <%
-            out.print("Hello World.");
+            out.print("Hello world!");
         %>
     </body>
 </html>
