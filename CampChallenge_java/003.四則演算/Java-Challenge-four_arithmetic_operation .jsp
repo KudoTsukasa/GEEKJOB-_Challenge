@@ -15,15 +15,11 @@
         <%
           final int num = 100;
           int num1 = 23;
-          out.print(num + num1);
-          out.print("<br>");
-          out.print(num - num1);
-          out.print("<br>");
-          out.print(num * num1);
-          out.print("<br>");
-          out.print(num / num1);
-          out.print("<br>");
-          out.print(num % num1);
+          out.println(num + num1);
+          out.println(num - num1);
+          out.println(num * num1);
+          out.println(num / num1);
+          out.println(num % num1);
         %>
     </body>
 </html>
